@@ -1,0 +1,42 @@
+body{
+	background-color: orange;
+}
+
+/*Clases*/
+.contenedor{
+	width: 960px;
+	margin: 0 auto;
+}
+
+/*Cabecera*/
+#header{
+	background-color: #333333;
+}
+
+/*Slider*/
+#slider{
+	background-color: #666666;
+}
+
+/*Seccion principal*/
+#section-main{
+	background-color: #999999;
+}
+
+/*Pie de página*/
+#footer{
+	background-color: #666666;
+}
+
+
+	/*TAREA PARA MAÑANA MIERCOLES 14*/
+
+	1.-  Diferencia entre
+
+			> inline-block vs float
+			> inline vs block
+			> modelo de caja
+				- padding
+				- margin
+				- outline
+				- border
